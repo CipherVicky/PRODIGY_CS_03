@@ -1,4 +1,5 @@
-# 🔐 Password Strength Checker
+# Prodigy Infotech CS Internship — Task 04
+## 🔐 Password Strength Checker
 
 A Python-based **Password Strength Assessment Tool** developed as **Task 3** of my Prodigy InfoTech Cybersecurity Internship. This project evaluates password strength using password length, character diversity, common weak passwords, repeated characters, sequential patterns, and estimated entropy.
 
